@@ -1,3 +1,9 @@
+#Contribuentes:
+ - Guilherme Portilho
+ - Guilherme Alan
+ - Rafael Gimenes
+
+
 # 📱 Projeto de Login e Cadastro (Flutter)
 
 ## 📌 Sobre o projeto
